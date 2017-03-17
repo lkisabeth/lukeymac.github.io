@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Let's do this."
-date:   2017-03-13 03:44:21 +0000
+date:   2017-03-12 23:44:21 -0400
 ---
 
 
-My first experience with software development was an "Intro To Java" class at the Ohio State University, 6 years ago (Wow.. 6 years!). At the time, I wasn't sure what I wanted to do with my life. I was studying Communication, knew I was passionate about technology, I just didn't know what I wanted to my career to look like. Coding was always something I was curious about but never something I pursued. I enrolled in the class simply because it seemed to be the most interesting elective at the time. At the end of day one, I felt something I hadn't quite felt with my other classes; an eagerness to come back the next day. I've always been passionate about learning new things but there was something immediately profound about this interest.  
+My first experience with software development was an "Intro To Java" class at the Ohio State University, 6 years ago (Wow.. 6 years!). At the time, I wasn't sure what I wanted to do with my life. I was studying Communication, knew I was passionate about technology, I just didn't know what I wanted my career to look like. Coding was always something I was curious about but never something I pursued. I enrolled in the class simply because it seemed to be the most interesting elective at the time. At the end of day one, I felt something I hadn't quite felt with my other classes; an eagerness to come back the next day. I've always been passionate about learning new things but there was something immediately profound about this interest.  
 
 The following weeks were a blast. I really enjoyed crunching through the basic "Hello World!"-esque assignments and hanging out in the computer lab. I felt I had a knack for this new thing. I began to notice that I was consistenly one of the first students to finish labs. It often left me wondering, "did I miss something?"; only to find out the next day that my work was actually good! Then life happened.. I was already making significant progress in a Communication degree, I was working, and I was the Vice President of a fraternity. How could I switch majors at this point? It just seemed too daunting. If only I could go back and tell myself to just do it! 
 
