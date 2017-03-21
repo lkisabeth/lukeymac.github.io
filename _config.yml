@@ -1,0 +1,21 @@
+# Site settings
+title: A Full-Stack of Pancakes
+header-img: img/home-bg.png
+email: lukey.mac@outlook.com
+copyright_name: lukeymac
+description: > # this means to ignore newlines until "baseurl:"
+  My Journey to Become a Full-Stack Web Developer
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: LukeKisabeth
+github_username:  lukeymac
+learn_profile: lukeymac
+email_username: lukey.mac@outlook.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
