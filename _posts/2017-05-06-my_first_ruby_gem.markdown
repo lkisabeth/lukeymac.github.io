@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Ruby Gem!"
-date:   2017-05-06 01:35:16 +0000
+date:   2017-05-05 21:35:17 -0400
 ---
 
 
@@ -17,6 +17,7 @@ It's important to note, with this approach, that there is some redundant code ac
 
 One thing that bothered me was the short load time when scraping a list of games.  I set out looking for a visual solution for this and discovered a handy little method for a spinning "Loading" symbol.  I tweaked it a bit to add the "Loading.. " text.. here it is:
 
+```
 def wait_cursor(seconds, fps=10)
     chars = %w[| / - \\]
     delay = 1.0/fps
@@ -26,6 +27,7 @@ def wait_cursor(seconds, fps=10)
       print "\b\b\b\b\b\b\b\b\b\b\b"
     }
 end
+```
 
 In my opinion, this resulted in a more enjoyable visual experience when running into load times.
 
