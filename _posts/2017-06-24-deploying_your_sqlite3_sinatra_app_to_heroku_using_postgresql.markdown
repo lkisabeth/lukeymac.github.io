@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Deploying your SQLite3 Sinatra App to Heroku using PostgreSQL"
-date:   2017-06-24 22:14:11 +0000
+date:   2017-06-24 18:14:12 -0400
 ---
 
 
-Hello everyone!  I had quite the learning experience today and I thought I should share it with all of you!
+Hello everyone!  I learned so much today and I thought I should share it with all of you!
 
 The Problem: 
 
