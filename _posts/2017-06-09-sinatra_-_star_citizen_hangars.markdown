@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Sinatra - Star Citizen Hangars"
-date:   2017-06-09 00:02:36 +0000
+date:   2017-06-08 20:02:37 -0400
 ---
 
 
-Hey everyone!  It has been a while since my last blog post and I've missed you! ;P .  Today's post is about Sinatra and my new web app built on the framework.  Although it pales in comparison to Rails, this was my first experience with a relatively large framwork in Ruby.  Learning the conventions and DSL of Sinatra was fun and it makes me look forward to working more with Rails!
+Hey everyone!  It has been a while since my last blog post and I've missed you! ;P .  Today's post is about Sinatra and my new web app built on the framework.  Although it pales in comparison to Rails, this was my first experience with a relatively large framework in Ruby.  Learning the conventions and DSL of Sinatra was fun and it makes me look forward to working more with Rails!
 
 [Click here](https://www.youtube.com/watch?v=akfSPMrGjTo&feature=youtu.be) to watch a walkthrough of my "Star Citizen Hangars" Sinatra App!
 
