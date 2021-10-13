@@ -1,13 +1,13 @@
 # Site settings
 title: A Full-Stack of Pancakes
-header-img: img/twilight-cityscape-final.jpg
-email: lukey.mac@outlook.com
+header-img: img/home-bg.png
+email: lucaskisabeth@gmail.com
 copyright_name: Lucas Kisabeth
 description: > # this means to ignore newlines until "baseurl:"
   My Journey as a Full-Stack Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username:
-github_username:  lukeymac
+github_username:  lkisabeth
 learn_profile: lukeymac
 email_username: lukey.mac@outlook.com
 
